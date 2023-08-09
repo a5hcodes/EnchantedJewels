@@ -5,13 +5,6 @@ body {
     background-color:#DFD7BF;
 
 }
-.carousel-caption {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align:right;
-    font-size: larger;
-    color:black;
-    font-weight: 500;
-}
 .fw-bolder {
     font-family: 'Yeseva One', cursive;
 }

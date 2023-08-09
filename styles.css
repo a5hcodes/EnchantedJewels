@@ -1,0 +1,88 @@
+body {
+    background-color:#3F2305;
+}
+.container-fluid {
+    background-color:#DFD7BF;
+
+}
+.carousel-caption {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:right;
+    font-size: larger;
+    color:black;
+    font-weight: 500;
+}
+.fw-bolder {
+    font-family: 'Yeseva One', cursive;
+}
+.navbar-brand {
+    font-family: 'Tangerine', cursive;
+    font-size: xx-large;
+    color: #3F2305;
+}
+#head {
+    font-family: 'Yeseva One', cursive;
+    color: #DFD3C3;
+    padding: 30px;
+    font-weight: 900;  
+    font-size: xx-large;
+}
+.mt-auto {
+    font-family: 'Yeseva One', cursive;
+}
+#carousel-caption {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: white;
+}
+#carousel-caption1 {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: #3F2305;
+}
+#carousel-caption2 {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: #3F2305;
+
+}
+#carousel-caption p {
+    font-family: 'Tangerine', cursive; ;
+    font-size:xx-large;
+    color: whitesmoke;
+
+}
+#carousel-caption1 p {
+    font-family: 'Tangerine', cursive; ;
+    font-size:xx-large ;
+    color: #3F2305;
+
+}
+#carousel-caption2 p {
+    font-family: 'Tangerine', cursive; ;
+    font-size:xx-large;
+    color: #3F2305;
+}
+.nav-item {
+    font-family: 'Yeseva One', cursive;
+    color: #3F2305;
+}
+

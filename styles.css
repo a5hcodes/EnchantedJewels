@@ -81,8 +81,11 @@ body {
     color: #3F2305;
 }
 h1 {
-    color: #3F2305;
-    font-family: 'Yeseva One', cursive; 
+    background-color: #3F2305; 
+    color: #f2f0eb;
+    font-family: 'Yeseva One', cursive;
+
+    
 
 }
 .bg-transparent {
@@ -94,4 +97,12 @@ h1 {
 #pro-2 {
     color: #3F2305;
 }
-
+.h12{
+    font-family:'Tangerine', cursive ;
+    color: #3F2305;
+    font-size: 50px;
+}
+.sepl{
+    font-family: 'Yeseva One', cursive;;
+    color: #3F2305;
+}

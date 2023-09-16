@@ -81,7 +81,9 @@ body {
     color: #3F2305;
 }
 h1 {
-    color: #3F2305;  
+    color: #3F2305;
+    font-family: 'Yeseva One', cursive; 
+
 }
 .bg-transparent {
     color: #3F2305;

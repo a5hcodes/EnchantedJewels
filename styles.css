@@ -1,27 +1,29 @@
 body {
-    background-color:#3F2305;
+    background-color:#f0e9e2;
 }
 .container-fluid {
-    background-color:#DFD7BF;
+    background-color:#f2f0eb;
 
 }
 .fw-bolder {
     font-family: 'Yeseva One', cursive;
+    color: #3F2305;
 }
 .navbar-brand {
     font-family: 'Tangerine', cursive;
     font-size: xx-large;
-    color: #3F2305;
+    color: #3F2305 ;
 }
 #head {
     font-family: 'Yeseva One', cursive;
-    color: #DFD3C3;
+    color: #f2f0eb;
     padding: 30px;
     font-weight: 900;  
     font-size: xx-large;
 }
 .mt-auto {
     font-family: 'Yeseva One', cursive;
+    color: #3F2305;
 }
 #carousel-caption {
     font-family: 'Cinzel', serif;
@@ -76,6 +78,15 @@ body {
 }
 .nav-item {
     font-family: 'Yeseva One', cursive;
+    color: #3F2305;
+}
+h1 {
+    color: #3F2305;  
+}
+.bg-transparent {
+    color: #3F2305;
+}
+.mt-auto :hover{
     color: #3F2305;
 }
 

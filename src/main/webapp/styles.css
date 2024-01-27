@@ -1,0 +1,126 @@
+body {
+    background-color:#f0e9e2;
+}
+.container-fluid {
+    background-color:#f2f0eb;
+
+}
+.fw-bolder {
+    font-family: 'Yeseva One', cursive;
+    color: #3F2305;
+}
+.navbar-brand {
+    font-family: 'Tangerine', cursive;
+    font-size: xx-large;
+    color: #3F2305 ;
+}
+#head {
+    font-family: 'Yeseva One', cursive;
+    color: #f2f0eb;
+    padding: 30px;
+    font-weight: 900;  
+    font-size: xx-large;
+}
+.mt-auto {
+    font-family: 'Yeseva One', cursive;
+    color: #3F2305;
+}
+#carousel-caption {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: white;
+}
+#carousel-caption1 {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: #3F2305;
+}
+#carousel-caption2 {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: #3F2305;
+
+}
+#carousel-caption p {
+    font-family: 'Tangerine', cursive; ;
+    font-size:xx-large;
+    color: whitesmoke;
+
+}
+#carousel-caption1 p {
+    font-family: 'Tangerine', cursive; ;
+    font-size:xx-large ;
+    color: #3F2305;
+
+}
+#carousel-caption2 p {
+    font-family: 'Tangerine', cursive; ;
+    font-size:xx-large;
+    color: #3F2305;
+}
+.nav-item {
+    font-family: 'Yeseva One', cursive;
+    color: #3F2305;
+}
+h1 {
+    background-color: #3F2305; 
+    color: #f2f0eb;
+    font-family: 'Yeseva One', cursive;
+
+    
+
+}
+.bg-transparent {
+    color: #3F2305;
+}
+.mt-auto :hover{
+    color: #3F2305;
+}
+#pro-2 {
+    color: #3F2305;
+}
+.h12{
+    font-family:'Tangerine', cursive ;
+    color: #3F2305;
+    font-size: 50px;
+}
+.sepl{
+    font-family: 'Yeseva One', cursive;;
+    color: #3F2305;
+}
+.gender-radio-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.gender-radio-group label {
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-family: 'Tangerine', cursive;
+}
+.welcome-message {
+    font-family: 'Yeseva One', cursive;;
+    color: #3F2305;
+    font-size: 24px;
+}
+
